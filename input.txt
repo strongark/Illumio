@@ -1,0 +1,2 @@
+Either by user preference or in the absence of any of the aforementioned libraries, a standard workaround for the pair functionality is creating a simple container class that wraps desired return values.
+The biggest advantage here is an ability to provide our name, which helps in avoiding having the same class representing different domain objects
